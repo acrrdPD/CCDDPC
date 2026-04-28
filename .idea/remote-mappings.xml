@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://l@222.197.200.235:1024/home/l/anaconda3/envs/SRtorch1.10/bin/python" />
+        <remote-mappings server-id="python@sftp://l@222.197.200.235:1024/home/l/anaconda3/envs/SRtorch314/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/l/data2/dky/UnregisMask_final" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://l@222.197.200.235:1024/home/l/anaconda3/envs/SRtorch315/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/l/data2/dky/UnregisMask_final" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
