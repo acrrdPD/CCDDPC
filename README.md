@@ -183,11 +183,14 @@ For questions about the code or paper, please open an issue in this repository o
 If this code is helpful to your research, please cite our paper. The BibTeX entry will be updated after the paper is officially published.
 
 ```bibtex
-@article{CCDDPC,
-  title   = {Cross-Modal Compensation and Dual Deformation Prediction Correction: Breaking Barriers in Unaligned Infrared-Visible Image Fusion},
-  author  = {Keying Du, Yafei Zhang, Huafeng Li, Zhengtao Yu, Yu Liu},
-  journal = {IEEE Transactions on Emerging Topics in Computational Intelligence},
-  year    = {2026},
-  note    = {To appear}
-}
+@ARTICLE{CCDDPC,
+	author={Du, Keying and Zhang, Yafei and Li, Huafeng and Yu, Zhengtao and Liu, Yu},
+	journal={IEEE Transactions on Emerging Topics in Computational Intelligence}, 
+	title={Cross-Modal Compensation and Dual Deformation Prediction Correction: Breaking Barriers in Unaligned Infrared-Visible Image Fusion}, 
+	year={2026},
+	volume={},
+	number={},
+	pages={1-15},
+	keywords={Image fusion;Modeling;Deformation;Fuses;Training;Feature extraction;Joints;Educational institutions;Design methodology;Image processing;IR-VIS image fusion;feature alignment;dual deformation prediction and correction},
+	doi={10.1109/TETCI.2026.3699651}}
 ```
